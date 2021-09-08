@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+button {
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+h1 {
+	text-align: center;
+	font-family: arial;
+	text-underline-position: initial;
+}
+.lol{
+	
+	position: relative;
+	top: 100px;
+	left: 230px;
+}
+
+a {
+	text-decoration: none;
+	font-family: arial;
+	color: gray;
+}
+p {
+	margin-top: 4px;
+	text-decoration: none;
+	colour: black;
+	font-family: arial;
+}
+.Luxury {
+width: 300px;
+margin-left: 200px;
+margin-top: 100px;
+
+
+
+
+}
+ .luxury{
+width: 370px;
+margin-left: 200px;
+
+
+
+
+
+ }
+
+.ulxury {
+width: 355px;
+margin-left: 200px;
+
+
+
+
+
+}
+
+.uLxury{
+width: 375px;
+margin-left: 200px;
+margin-left: 702px;
+
+
+
+}
+
+.Sign {
+	width: 200px;
+	height: 400px;
+	margin: auto;
+	font-family: arial;
+	margin-bottom: 1000px;
+}
+.Login {
+	width: 200px;
+	height: 400px;
+	margin: auto;
+	font-family: arial;
+}
+form label {
+	display: flex;
+    margin-top: 6px;
+    font-size: 18px;
+    
+}
+form input {
+	width: 100%;	
+	padding: 7px;
+	border: none;
+	border: 1px solid gray ;
+	border-radius: 6px;
+	outline: none;
+	box-shadow: inset 0 0 0 0 #1ae591;
+    transition: ease-out 1.0s;
+    font-size: 1rem;
+    outline: none;
+    margin-top: 10px;
+    
+}
+form input:hover{
+	box-shadow: inset 217px 0 0 0 #1ae591;
+}
+.button{
+    width: 100%;
+    height: 40px;
+    margin-top: 25px;
+    border: none;
+   
+}
+
+
+
+.YAZ {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	text-align: center;
+	
+}
+.btn-1 {
+	margin-top: 10px;
+	width: 70px;
+	height: 20px;
+	border: none;
+	color: black;
+	color-profile: #0091ff;
+	box-shadow: inset 0 0 0 0 #1ae591;
+	transition: ease-out 1.5s;
+	font-size: 1rem;
+	outline: none;
+	
+}
+.btn-1:hover{
+	box-shadow: inset 200px 0 0 0 #1ae591;
+}
+
+.btn-2 {
+	margin-top: 10px;
+	width: 70px;
+	height: 20px;
+	border: none;
+	color: black;
+	background-color: #0091ff;
+	box-shadow: inset 0 0 0 0 #1ae591;
+	transition: ease-out 1.5s;
+	font-size: 1rem;
+	outline: none;
+	
+}
+.btn-2:hover{
+	box-shadow: inset 200px 0 0 0 #1ae591;
+}
+
+.btn-3 {
+	margin-top: 10px;
+	width: 70px;
+	height: 20px;
+	border: none;
+	color: black;
+	
+	background-color: #0091ff;
+	box-shadow: inset 0 0 0 0 #1ae591;
+	transition: ease-out 1.5s;
+	font-size: 1rem;
+	outline: none;
+	margin
+	}
+.btn-3:hover{
+	box-shadow: inset 200px 0 0 0 #1ae591;
+}
+
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+	background-image: url(background.jpg) ;
+}
+
+
+}
+h1 {
+	text-align: center;
+	font-family: arial;
+	text-underline-position: initial;
+}
